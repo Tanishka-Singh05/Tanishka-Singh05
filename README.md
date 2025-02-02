@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanishka Singh</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-- 🔭 I’m currently working on **CNN and DSA**
+- 🔭 I’m currently working on **GenAI and DSA**
 
-- 🌱 I’m currently learning **Pytorch and Flask**
+- 🌱 I’m currently learning **Fullstack Devlopment**
 
 - 👯 I’m looking to collaborate on **Machine learning projects..**
 
